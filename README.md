@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/people-matters/image/upload/fl_immutable_cache,w_624,h_351,q_auto,f_auto/v1517845732/1517845731.jpg">
+<img src="movie.jpeg">
 
 # Microsoft Movie Analysis
 ---
@@ -37,16 +37,22 @@ I imported the data from my two sources. Luckily, the data from the The Numbers 
 
 ## Results
 ---
-<img src="https://github.com/MHolthouser1024/Microsoft-Movie-Analysis/blob/master/Top_gross_month.png?raw=true">
+<img src="Top_gross_month.png">
 The highest grossing month to release a film was November. Releasing in the summer time is proven to also be a good time to release a film. 
-<img src="https://github.com/MHolthouser1024/Microsoft-Movie-Analysis/blob/master/Director_image.png?raw=true">
+<img src="directors.png">
 Using number_of_votes as my factor for determining the most popular director, Christopher Nolan was the top option with the highest number of votes. 
-<img src="https://github.com/MHolthouser1024/Microsoft-Movie-Analysis/blob/master/Actor_image.png?raw=true">
+<img src="actors.png">
 Using number_of_votes again for determining the most popular actor since 2010, The data shows that Leonardo DiCaprio is the most popular. 
-<img src="https://github.com/MHolthouser1024/Microsoft-Movie-Analysis/blob/master/Genre_image.png?raw=true">
+<img src="Genre_image.png">
 By adding a genre column to my recent_movie_budgets dataframe and populating it with the data from the IMDb database, adventure/crime/thriller was the highest grossing genre with action/adventure/sci-fi as a close second. 
 
 ## Conclusion
 ---
 In conclusion, I would recommend that Microsoft create movies of either the action/crime/thriller genre or the action/adventure/sci-fi genre. From the data provided, hiring well known directors and actors is proven to positively impact the worldwide gross for a film. To promote the highest box office sales, I recommend a release date during the summer season or during the holidays in November and December. 
 Movie genre, the hiring of a director and lead actor, and release month are all factors critical to creating a successful film. 
+
+
+
+```python
+
+```
