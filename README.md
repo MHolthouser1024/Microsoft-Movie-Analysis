@@ -37,13 +37,13 @@ I imported the data from my two sources. Luckily, the data from the The Numbers 
 
 ## Results
 ---
-<img src="Top_gross_month.png">
-The highest grossing month to release a film was November. Releasing in the summer time is proven to also be a good time to release a film. 
-<img src="directors.png">
+<img src="Top_ww_gross.png">
+The top grossing months to release a film were in November and July. Releasing in the summer time is proven to also be a good time to release a film. 
+<img src="Pop_directors.png">
 Using number_of_votes as my factor for determining the most popular director, Christopher Nolan was the top option with the highest number of votes. 
-<img src="actors.png">
-Using number_of_votes again for determining the most popular actor since 2010, The data shows that Leonardo DiCaprio is the most popular. 
-<img src="Genre_image.png">
+<img src="pop_actors.png">
+Using number_of_votes again for determining the most popular actor since 2010, The data shows that Ken Watanabe and Leonardo DiCaprio are the most popular. 
+<img src="Top_genre.png">
 By adding a genre column to my recent_movie_budgets dataframe and populating it with the data from the IMDb database, adventure/crime/thriller was the highest grossing genre with action/adventure/sci-fi as a close second. 
 
 ## Conclusion
