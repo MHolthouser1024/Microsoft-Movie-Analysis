@@ -44,11 +44,11 @@ Using number_of_votes as my factor for determining the most popular director, Ch
 <img src="Pop_actors.png">
 Using number_of_votes again for determining the most popular actor since 2010, The data shows that Ken Watanabe and Leonardo DiCaprio are the most popular. 
 <img src="Top_genre.png">
-By adding a genre column to my recent_movie_budgets dataframe and populating it with the data from the IMDb database, adventure/crime/thriller was the highest grossing genre with action/adventure/sci-fi as a close second. 
+By adding a genre column to my recent_movie_budgets dataframe and populating it with the data from the IMDb database, animation and sci-fi were the top two worldwide grossing movie genres. 
 
 ## Conclusion
 ---
-In conclusion, I would recommend that Microsoft create movies of either the action/crime/thriller genre or the action/adventure/sci-fi genre. From the data provided, hiring well known directors and actors is proven to positively impact the worldwide gross for a film. To promote the highest box office sales, I recommend a release date during the summer season or during the holidays in November and December. 
+In conclusion, I would recommend that Microsoft create animated or sci-fi films. From the data provided, hiring well known directors and actors is proven to positively impact the view of a film by the public audience. To promote the highest box office sales, I recommend a release date during the summer season or during the holidays in November and December. 
 Movie genre, the hiring of a director and lead actor, and release month are all factors critical to creating a successful film. 
 
 
